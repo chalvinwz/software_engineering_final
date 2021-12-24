@@ -2,23 +2,33 @@
 
 This is a simple web application for our software engineering final project. I build this app with [Next.js](https://nextjs.org/) for the frontend and Go with [Fiber](https://gofiber.io/) for the backend.
 
-###Login form
+### Login form
+
 <img src='./assets/login.jpg'/>
 
-###Student registration form
+### Student registration form
+
 <img src='./assets/student_registration.jpg'/>
 
 ###Teacher registration form
 <img src='./assets/teacher_registration.jpg'/>
 
-###Login form
+### Enroll class student
+
 <img src='./assets/enroll_class.jpg'/>
 
-###Login form
-<img src='./assets/login.jpg'/>
+### Register class teacher
 
-###Login form
-<img src='./assets/login.jpg'/>
+<img src='./assets/register_class.jpg'/>
 
-###Login form
-<img src='./assets/login.jpg'/>
+### Grading management teacher
+
+<img src='./assets/grading_management.jpg'/>
+
+### Report complaint
+
+<img src='./assets/report_complaint.jpg'/>
+
+### Subject management
+
+<img src='./assets/subject_management.jpg'/>
