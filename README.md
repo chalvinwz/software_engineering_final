@@ -1,6 +1,6 @@
 ## Software Engineering Subject Final Project
 
-This is a simple web application for our software engineering final project. I build this app with [Next.js](https://nextjs.org/) for the frontend and Go with [Fiber](https://gofiber.io/) for the backend.
+This is a simple web application for our software engineering final project. I build this app with [Next.js](https://nextjs.org/) and [Chakra UI](https://chakra-ui.com/) for the frontend and Go with [Fiber](https://gofiber.io/) for the backend.
 
 ### Login form
 
@@ -10,7 +10,8 @@ This is a simple web application for our software engineering final project. I b
 
 <img src='./assets/student_registration.jpg'/>
 
-###Teacher registration form
+### Teacher registration form
+
 <img src='./assets/teacher_registration.jpg'/>
 
 ### Enroll class student
